@@ -9,3 +9,5 @@ Projects:
 
  - Video Games Sales Dataset (datasource:
    https://www.kaggle.com/sidtwr/videogames-sales-dataset)
+
+![image](https://user-images.githubusercontent.com/48734520/155095918-b575725e-3263-440c-80b4-1d3d3d55e35d.png)
